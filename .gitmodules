@@ -1,20 +1,20 @@
 [submodule "webpki"]
 	path = webpki
-	url = https://github.com/thomwiggers/webpki.git
+	url = https://github.com/dgargar-laude/webpki.git
 	branch = optls
 [submodule "mk-cert"]
 	path = mk-cert
-	url = https://github.com/thomwiggers/mk-cert
+	url = https://github.com/dgargar-laude/mk-cert.git
 [submodule "rustls"]
 	path = rustls
-	url = https://github.com/thomwiggers/rustls.git
+	url = https://github.com/dgargar-laude/rustls.git
 	branch = secsidh-nike
 [submodule "ring"]
 	path = ring
-	url = https://github.com/thomwiggers/ring.git
+	url = https://github.com/dgargar-laude/ring.git
 [submodule "oqs-rs"]
 	path = oqs-rs
-	url = https://github.com/thomwiggers/liboqs-rust.git
+	url = https://github.com/dgargar-laude/liboqs-rust.git
 [submodule "secsidh"]
 	path = secsidh
-	url = https://github.com/kemtls-secsidh/secsidh.git
+	url = https://github.com/dgargar-laude/secsidh.git
