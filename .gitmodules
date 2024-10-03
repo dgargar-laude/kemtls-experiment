@@ -1,17 +1,18 @@
 [submodule "webpki"]
 	path = webpki
-	url = https://github.com/thomwiggers/webpki.git
+	url = git@github.com:dgargar-laude/webpki.git 
 	branch = pq-take2
 [submodule "mk-cert"]
 	path = mk-cert
-	url = https://github.com/thomwiggers/mk-cert
+	url = git@github.com:dgargar-laude/mk-cert.git 
+	branch = take2
 [submodule "rustls"]
 	path = rustls
-	url = https://github.com/thomwiggers/rustls.git
+	url = git@github.com:dgargar-laude/rustls.git 
 	branch = pqtls-take2
 [submodule "ring"]
 	path = ring
-	url = https://github.com/thomwiggers/ring.git
+	url = git@github.com:dgargar-laude/ring.git 
 [submodule "oqs-rs"]
 	path = oqs-rs
-	url = https://github.com/thomwiggers/oqs-rs.git
+	url = git@github.com:dgargar-laude/liboqs-rust.git 
